@@ -17,4 +17,4 @@ The project uses machine learning in python  to predict medical cost using previ
 * **DATABSE** : MongoDB  
 
 # Author
-Pranesh, CSE RVITM  
+Bhoomica, CSE RVITM  
